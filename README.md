@@ -59,7 +59,9 @@ Ce module gère l'affichage et les interactions utilisateur via la SDL2.
 ## Choix d'implémentation spécifiques
 - Listes chaînées pour la santé des navires : Contrairement à une simple décrémentation de points de vie, l'utilisation de listes chaînées contenant les coordonnées exactes permet de savoir précisément quelle partie du bateau est intacte.
 - Automates (State Machines) : L'utilisation d'automates (représentés par les diagrammes dans le rapport) permet de sécuriser le flux logique du jeu (ex: transition de l'état "aucune info" à "en cours de destruction" pour l'IA) .
-
+<p align="center">
+ <img width="500" alt="image" src="https://github.com/user-attachments/assets/ce927a7f-a8f3-4d1b-aa2d-74d55276746b" />
+</p>
 ## Compilation
 ### Prérequis
 - Bibliothèque [SDL](https://www.libsdl.org/)
