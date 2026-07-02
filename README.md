@@ -62,6 +62,7 @@ Ce module gère l'affichage et les interactions utilisateur via la SDL2.
 <p align="center">
  <img width="500" alt="image" src="https://github.com/user-attachments/assets/ce927a7f-a8f3-4d1b-aa2d-74d55276746b" />
 </p>
+
 ## Compilation
 ### Prérequis
 - Bibliothèque [SDL](https://www.libsdl.org/)
